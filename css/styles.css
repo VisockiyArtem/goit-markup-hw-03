@@ -187,9 +187,6 @@ img {
         overflow: hidden;
     }
 
-.container-advantag {
-}
-
 .section-menu {
     display: flex;
     gap: 24px;
@@ -209,9 +206,6 @@ img {
     width: 264px;
     height: 72px;
     width: calc((100% - 72px) / 4);
-}
-
-.container-ourteam {
 }
 
 .section-ourteam {
@@ -345,11 +339,10 @@ img {
     color: #434455;
 }
 
-
-
 .section-ourteam {
     background-color: #f4f4fd;
 }
+
 .our-team {
     font-weight: 700;
     font-size: 36px;
@@ -359,6 +352,7 @@ img {
     text-transform: capitalize;
     color:#2e2f42 ;
 }
+
 .section-ourteam-comand {
     font-weight: 500;
     font-size: 20px;
